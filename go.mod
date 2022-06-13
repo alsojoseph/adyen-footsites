@@ -1,3 +1,3 @@
-module github.com/awxsam/adyen-footsites
+module github.com/alsojoseph/adyen-footsites
 
 go 1.18
